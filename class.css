@@ -44,7 +44,7 @@ label {
 }
 
 button {
-    width: 25%;
+    width: 24%;
     padding: 10px;
     background-color: red;
     border-radius: 5px;
@@ -54,7 +54,7 @@ button {
     transition: background-color 0.3s;
 }
 button {
-    width: 25%;
+    width: 24%;
     padding: 10px;
     background-color: red;
     border-radius: 5px;
@@ -64,7 +64,7 @@ button {
     transition: background-color 0.3s;
 }
 button {
-    width: 24.7%;
+    width: 24%;
     padding: 10px;
     background-color: red;
     border-radius: 5px;
@@ -72,15 +72,6 @@ button {
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.3s;
-}
-input {
-    width: 23%;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    color: black;
-    outline: none;
-    text-align: center;
 }
 button:hover {
     background-color: gold;
